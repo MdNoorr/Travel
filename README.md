@@ -1,4 +1,4 @@
 # Travel
 
 
-FLEX and GRID
+FLEX and GRID and MEDIA QUERY
